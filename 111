@@ -1,0 +1,2 @@
+git --work-tree=yourSrcFolder add .
+git commit -m "a msg", and git push origin master
